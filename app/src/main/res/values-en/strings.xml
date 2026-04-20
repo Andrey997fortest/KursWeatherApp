@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Golden Ring Weather</string>
+    <string name="intro_title">Weather forecast for the Golden Ring of Russia</string>
+    <string name="intro_subtitle">Select one of the classic route cities and view the current weather plus a seven-day forecast.</string>
+    <string name="city_selector_title">Cities</string>
+    <string name="forecast_title">7-day forecast</string>
+    <string name="refresh">Refresh</string>
+    <string name="error_title">Failed to update weather</string>
+    <string name="error_loading_weather">Check your internet connection or try again a bit later.</string>
+    <string name="retry">Retry</string>
+    <string name="updated_at_format">Updated: %1$s</string>
+    <string name="current_temperature_format">%1$d°C</string>
+    <string name="wind_speed_format">Wind: %1$d km/h</string>
+    <string name="coordinates_format">Coordinates: %1$.4f, %2$.4f</string>
+    <string name="coordinates_source_api">Coordinates source: Api-Ninjas</string>
+    <string name="coordinates_source_fallback">Coordinates source: built-in backup list</string>
+    <string name="temp_range_format">%1$d° / %2$d°</string>
+    <string name="precipitation_probability_format">Rain chance: %1$d%%</string>
+    <string name="city_sergiev_posad">Sergiev Posad</string>
+    <string name="city_pereslavl_zalessky">Pereslavl-Zalessky</string>
+    <string name="city_rostov_veliky">Rostov Veliky</string>
+    <string name="city_yaroslavl">Yaroslavl</string>
+    <string name="city_kostroma">Kostroma</string>
+    <string name="city_ivanovo">Ivanovo</string>
+    <string name="city_suzdal">Suzdal</string>
+    <string name="city_vladimir">Vladimir</string>
+    <string name="weather_clear_sky">Clear sky</string>
+    <string name="weather_partly_cloudy">Partly cloudy</string>
+    <string name="weather_overcast">Overcast</string>
+    <string name="weather_fog">Fog</string>
+    <string name="weather_drizzle">Drizzle</string>
+    <string name="weather_rain">Rain</string>
+    <string name="weather_snow">Snow</string>
+    <string name="weather_thunderstorm">Thunderstorm</string>
+    <string name="weather_unknown">Weather data unavailable</string>
+</resources>

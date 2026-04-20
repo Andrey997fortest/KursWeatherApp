@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода Золотого кольца</string>
+    <string name="intro_title">Прогноз погоды для городов Золотого кольца России</string>
+    <string name="intro_subtitle">Выберите один из классических городов маршрута и посмотрите текущую погоду и прогноз на 7 дней.</string>
+    <string name="city_selector_title">Города</string>
+    <string name="forecast_title">Прогноз на 7 дней</string>
+    <string name="refresh">Обновить</string>
+    <string name="error_title">Не удалось обновить погоду</string>
+    <string name="error_loading_weather">Проверьте подключение к интернету или попробуйте повторить запрос позже.</string>
+    <string name="retry">Повторить</string>
+    <string name="updated_at_format">Обновлено: %1$s</string>
+    <string name="current_temperature_format">%1$d°C</string>
+    <string name="wind_speed_format">Ветер: %1$d км/ч</string>
+    <string name="coordinates_format">Координаты: %1$.4f, %2$.4f</string>
+    <string name="coordinates_source_api">Источник координат: Api-Ninjas</string>
+    <string name="coordinates_source_fallback">Источник координат: встроенный резервный список</string>
+    <string name="temp_range_format">%1$d° / %2$d°</string>
+    <string name="precipitation_probability_format">Вероятность осадков: %1$d%%</string>
+    <string name="city_sergiev_posad">Сергиев Посад</string>
+    <string name="city_pereslavl_zalessky">Переславль-Залесский</string>
+    <string name="city_rostov_veliky">Ростов Великий</string>
+    <string name="city_yaroslavl">Ярославль</string>
+    <string name="city_kostroma">Кострома</string>
+    <string name="city_ivanovo">Иваново</string>
+    <string name="city_suzdal">Суздаль</string>
+    <string name="city_vladimir">Владимир</string>
+    <string name="weather_clear_sky">Ясно</string>
+    <string name="weather_partly_cloudy">Переменная облачность</string>
+    <string name="weather_overcast">Пасмурно</string>
+    <string name="weather_fog">Туман</string>
+    <string name="weather_drizzle">Морось</string>
+    <string name="weather_rain">Дождь</string>
+    <string name="weather_snow">Снег</string>
+    <string name="weather_thunderstorm">Гроза</string>
+    <string name="weather_unknown">Нет данных о погоде</string>
+</resources>
