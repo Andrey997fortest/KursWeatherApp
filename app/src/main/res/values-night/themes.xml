@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.KursGoldenRingWeather" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/toolbar_background</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/toolbar_background</item>
+        <item name="android:navigationBarColor">@color/toolbar_background</item>
+    </style>
+</resources>

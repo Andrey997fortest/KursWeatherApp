@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_background">#F4F7FB</color>
+    <color name="toolbar_background">#1F3A6D</color>
+    <color name="current_card_background">#2A4F95</color>
+    <color name="current_card_stroke">#4C74C6</color>
+    <color name="text_primary">#1D2433</color>
+    <color name="text_secondary">#5E6678</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_alpha_90">#E6FFFFFF</color>
+    <color name="white_alpha_80">#CCFFFFFF</color>
+    <color name="card_stroke">#DCE4F2</color>
+    <color name="error_card_bg">#FFF3F2</color>
+
+    <color name="city_chip_selected_bg">#DDE9FF</color>
+    <color name="city_chip_selected_stroke">#3367D6</color>
+    <color name="city_chip_selected_text">#1F3A6D</color>
+
+    <color name="city_chip_unselected_bg">#FFFFFF</color>
+    <color name="city_chip_unselected_stroke">#DCE4F2</color>
+    <color name="city_chip_unselected_text">#5E6678</color>
+</resources>
